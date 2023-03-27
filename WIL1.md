@@ -1,3 +1,30 @@
+# www.hongik.ac.kr을 입력하면 무슨 일이 일어날까?!
+ - URI : Uniform Resource Identifier (위치를 알아내기 위한 방식) 
+ - URL : Uniform Resource Location : 프로토콜(http) +DNS주소
+ - URN : Uniform Resource Name
+
+## 서버와 리소스
+1. 길고 복잡한 IP 주소들을 외우거나 관리하기 힘들다
+2. IP 주소는 사정에 따라 바뀔 수도 있다.
+
+
+--> DNS서버의 등장 (Domain Name Server)
+
+-Resource의 정체
+HTML(자료), CSS(UI),JavaScript(제어)를 재료 삼아 브라우저가 그림을 그려준다.(랜더링)
+
+HTML - 뼈대, CSS-살,옷 
+
+
+
+
+
+
+
+
+
+
+
 # git의 명령어
 - add
 
